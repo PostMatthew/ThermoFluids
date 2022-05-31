@@ -1,4 +1,4 @@
-# ThermoFluids
+# ME 475: Thermo-Fluids Lab
 This is a repo for all code written for ME 475: Thermo-Fluids Laboratory, the majority of code was written by myself, but all uncertainity analysis was written by [Christian Hollar](https://github.com/christianhollar), and a handful of additional functions were written by James Kiley.
 
 Included in this repo is all relevant data, scripts, and functions used for analysis. All analysis was conducted in MATLAB and can be run in MATLAB 2019 or newer. 
